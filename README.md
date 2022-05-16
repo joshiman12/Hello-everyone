@@ -1,5 +1,3 @@
 # Hello-everyone
 
 # APEX ++
-
-# MapleStory --
